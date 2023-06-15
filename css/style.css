@@ -1,0 +1,31 @@
+/* id=# class=. */
+
+main{
+
+  margin: 0px;
+
+}
+
+.logoimg {
+  margin: 10px;
+  width: 200px;
+}
+
+#maps{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 300px;
+  padding-top: 0px;
+  height: 80vh;
+}
+
+.footer {
+  background-color: #707070;
+  color: #ffffff;
+  margin : 0px ;
+  padding : 10px ;
+  height : 100% ;
+  text-align: center ;
+  font-family: 'Dela Gothic One', cursive;
+  vertical-align: text-bottom;
+}
