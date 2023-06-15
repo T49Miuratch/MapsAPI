@@ -11,12 +11,20 @@ main{
   width: 200px;
 }
 
+.message{
+
+  font-family: 'Kaisei Decol', serif;
+  text-align: center;
+  font-size: larger;
+
+}
+
 #maps{
   margin-top: 10px;
   margin-bottom: 10px;
-  margin-left: 300px;
   padding-top: 0px;
   height: 80vh;
+  width: 1650px;
 }
 
 .footer {
@@ -28,4 +36,16 @@ main{
   text-align: center ;
   font-family: 'Dela Gothic One', cursive;
   vertical-align: text-bottom;
+}
+
+table{
+
+  background-color: #F22;
+
+}
+
+td{
+
+vertical-align: top;
+
 }
