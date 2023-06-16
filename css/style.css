@@ -1,4 +1,6 @@
-/* id=# class=. */
+/* id=[#] class=[.] */
+
+html,body,#map_canvas{height:100%;}
 
 main{
 
@@ -6,9 +8,15 @@ main{
 
 }
 
-.logoimg {
+.header{
   margin: 10px;
-  width: 200px;
+
+}
+
+.logoimg {
+
+  margin: 10px;
+
 }
 
 .message{
@@ -24,7 +32,7 @@ main{
   margin-bottom: 10px;
   padding-top: 0px;
   height: 80vh;
-  width: 1650px;
+  width: 100%;
 }
 
 .footer {
